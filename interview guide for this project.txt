@@ -1,0 +1,3 @@
+about this project, say:
+
+“I worked on a Superstore sales dataset where I performed data cleaning, created KPIs like Total Sales, Profit, Quantity and AOV. I used Pivot Tables to analyze sales by region, profit by category, top products, and built a monthly sales trend. Then I designed a fully interactive Excel dashboard using slicers for Year, Region, and Category to enable dynamic analysis.”
